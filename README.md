@@ -1,1 +1,1 @@
-Este código fue escrito para el amor de mi vida, Tiz, te amo. ♥
+Este repositorio, fue escrito para el amor de mi vida, te amo Tiz. ♥
