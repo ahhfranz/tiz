@@ -47,7 +47,7 @@
         "msgs": ["Lo mucho que aprecio todos los días.."],
         "msgInputSpeed": 20
     },
-        {
+    {
         "msgs": ["Saber que voy a compartir mi vida con vos. ❤️"],
         "msgInputSpeed": 10
     },
@@ -72,7 +72,7 @@
         "msgs": ["y es por eso que.."],
         "msgInputSpeed": 30
     },
-        {
+    {
         "msgs": ["preferí escribirte una carta. ❤️"],
         "msgInputSpeed": 30
     },
@@ -108,7 +108,7 @@
         "msgs": ["<img src='options/preview/img4.png'/>"],
         "msgInputSpeed": 50
     },
-        {
+    {
         "msgs": ["<img src='options/preview/img5.png'/>"],
         "msgInputSpeed": 50
     },
@@ -140,9 +140,8 @@
         "msgs": ["Con amor, tu amado Franco. 🎀❤️"],
         "msgInputSpeed": 80
     },
-        {
+    {
         "msgs": ["<img src='options/preview/img6.png'/>"],
         "msgInputSpeed": 50
-    },
-    {
+    }
 ]
