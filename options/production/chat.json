@@ -1,0 +1,147 @@
+[
+    { "msgs": ["Tiiiiiiiiiiiiz 🥰❤️"], "msgInputSpeed": 40 },
+    {
+        "msgs": ["¡Holi mi amor!"],
+        "msgInputSpeed": 30
+    },
+    {
+        "msgs": ["Empecé este proyecto el 23/11/24 para vos :3"],
+        "msgInputSpeed": 10
+    },
+    {
+        "msgs": ["Espero que lo disfrutes tanto como yo lo hice. 🌸"],
+        "msgInputSpeed": 30
+    },
+    {
+        "msgs": ["¿Te gustaría comenzar? ❤️"],
+        "msgInputSpeed": 50,
+        "triggerNextAction": {
+            "type": "userInput",
+            "options": {
+                "resolveKeyTexts": ["si", "Si", "SI", "sip", "Sip", "SIP", "chi", "Chi", "CHI", "dale", "Dale", "DALE", "quiero", "Quiero", "obvio", "Obvio", "de una", "De una"],
+                "rejectKeyTexts": ["no", "No", "nunca", "Nunca", "na", "Na", "meh", "Meh"],
+                "rejectHitTexts": [
+                    "bue si dale -.- mentirosa(?"
+                ]
+            }
+        }
+    },
+    {
+        "msgs": ["oki uwu 💞"],
+        "msgInputSpeed": 30
+    },
+    { "msgs": ["Antes que nada..."], "msgInputSpeed": 50 },
+    {
+        "msgs": ["Sé que pasaron muchas cosas.."],
+        "msgInputSpeed": 30
+    },
+    {
+        "msgs": ["Sobre todo en los últimos meses.."],
+        "msgInputSpeed": 30
+    },
+    {
+        "msgs": ["Y realmente quería hacer algo que te recuerde.."],
+        "msgInputSpeed": 20
+    },
+    {
+        "msgs": ["Lo mucho que aprecio todos los días.."],
+        "msgInputSpeed": 20
+    },
+        {
+        "msgs": ["Saber que voy a compartir mi vida con vos. ❤️"],
+        "msgInputSpeed": 10
+    },
+    { "msgs": ["Este regalo..."], "msgInputSpeed": 30 },
+    {
+        "msgs": ["es para que siempre puedas encontrar un lugar seguro,"],
+        "msgInputSpeed": 30
+    },
+    {
+        "msgs": ["un refugio donde puedas recordar lo mucho que te amo,"],
+        "msgInputSpeed": 30
+    },
+    {
+        "msgs": ["y que siempre voy a estar para vos. 💏❤️"],
+        "msgInputSpeed": 30
+    },
+    {
+        "msgs": ["La verdad es que son muchas las cosas que quería decirte,"],
+        "msgInputSpeed": 20
+    },
+    {
+        "msgs": ["y es por eso que.."],
+        "msgInputSpeed": 30
+    },
+        {
+        "msgs": ["preferí escribirte una carta. ❤️"],
+        "msgInputSpeed": 30
+    },
+    {
+        "msgs": ["<letter src='options/preview/letter.json'/>"],
+        "triggerNextAction": { "type": "componentClose" }
+    },
+    {
+        "msgs": ["¡Espero que te haya gustado mi amor! 💌❤️"],
+        "msgInputSpeed": 30
+    },
+    {
+        "msgs": ["Realmente... nunca voy a olvidar todos los momentos que pasamos juntos."],
+        "msgInputSpeed": 20
+    },
+    {
+        "msgs": ["¡Te dejo con algunos de ellos! 📷🥰"],
+        "msgInputSpeed": 30
+    },
+    {
+        "msgs": ["<img src='options/preview/img1.png'/>"],
+        "msgInputSpeed": 50
+    },
+    {
+        "msgs": ["<img src='options/preview/img2.png'/>"],
+        "msgInputSpeed": 50
+    },
+    {
+        "msgs": ["<img src='options/preview/img3.png'/>"],
+        "msgInputSpeed": 50
+    },
+    {
+        "msgs": ["<img src='options/preview/img4.png'/>"],
+        "msgInputSpeed": 50
+    },
+        {
+        "msgs": ["<img src='options/preview/img5.png'/>"],
+        "msgInputSpeed": 50
+    },
+    {
+        "msgs": ["Gracias por seguir conmigo, por nunca rendirte,"],
+        "msgInputSpeed": 30
+    },
+    {
+        "msgs": ["muy pronto vamos a tener muchas más fotos y aventuras. ❤️"],
+        "msgInputSpeed": 30
+    },
+    {
+        "msgs": ["No hay palabras que puedan describir lo mucho que te amo,"],
+        "msgInputSpeed": 30
+    },
+    {
+        "msgs": ["y lo que agradezco que seas parte de mi vida,"],
+        "msgInputSpeed": 30
+    },
+    {
+        "msgs": ["¡Ayer, hoy, mañana y toda la vida! ❤️❤️❤️"],
+        "msgInputSpeed": 30
+    },
+    {
+        "msgs": ["Sos lo mejor que me pasó, nunca lo olvides. 🥰❤️"],
+        "msgInputSpeed": 30
+    },
+    {
+        "msgs": ["Con amor, tu amado Franco. 🎀❤️"],
+        "msgInputSpeed": 80
+    },
+        {
+        "msgs": ["<img src='options/preview/img6.png'/>"],
+        "msgInputSpeed": 50
+    },
+]

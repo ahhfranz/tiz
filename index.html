@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" href="/tiz/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title></title>
+    <script type="module" crossorigin src="/tiz/assets/index.7fce7288.js"></script>
+    <link rel="stylesheet" href="/tiz/assets/index.fd561baa.css">
+  </head>
+  <body>
+    <div id="app"></div>
+    
+  <!-- Musiquita -->
+  <audio id="background-music" src="options/preview/musica.mp3" loop hidden></audio>
+
+  <script>
+    // Que rompe bolas que sos Chrome...
+    document.addEventListener('click', () => {
+      const audio = document.getElementById('background-music');
+      audio.volume = 0.3; // Volumen
+      audio.play().catch(error => console.error('Error al reproducir el audio:', error));
+    }, { once: true }); // Creo que va, 1 solo click
+  </script>
+    
+    <script src="js/zepto.min.js"></script>
+  </body>
+</html>
